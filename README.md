@@ -2,7 +2,9 @@
 *A smart solution for waste management and environmental awareness.*
 
 ---
+![Mockup Preview](mockup.png)
 
+---
 ## 🎯 About Reto  
 **Reto: Recycle Together** is a mobile application designed to revolutionize waste management by simplifying the process of waste sorting and promoting environmental awareness. Built for communities and individuals, Reto leverages AI-powered image recognition and interactive educational features to inspire responsible waste disposal habits.
 
