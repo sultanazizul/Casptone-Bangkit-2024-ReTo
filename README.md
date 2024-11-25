@@ -46,8 +46,8 @@
 | I Putu Edgar Kusuma Bagus Taradipa | Cloud Computing    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/edgarkusuma07) |
 | I Putu Rangga Sutha Santana  | Cloud Computing     | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/puturangga21) |
 | Ni Kadek Ari Diah Lestari    | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/aridiahh) |
-| Ni Komang Vaniya Apriandani  | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/username-vaniya) |
-| Sinta Purnama Dewi           | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/username-sinta) |
+| Ni Komang Vaniya Apriandani  | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/vaniyaapriann) |
+| Sinta Purnama Dewi           | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sintaprnm) |
 | Sultan Azizul Haromain       | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sultanazizul) |
 
 ---
