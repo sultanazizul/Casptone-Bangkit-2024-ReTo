@@ -38,7 +38,20 @@
 - **Future-Ready:** Built with scalability in mind, Reto can adapt to new features and larger user bases.  
 
 ---
+## 👥 Team Members
 
+| Name                         | Learning Path       | GitHub                                     |
+| ---------------------------- | ------------------- | ------------------------------------------ |
+| David Samuel Sitorus         | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/kecoaxx) |
+| I Putu Edgar Kusuma Bagus Taradipa | Cloud Computing    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/edgarkusuma07) |
+| I Putu Rangga Sutha Santana  | Cloud Computing     | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/puturangga21) |
+| Ni Kadek Ari Diah Lestari    | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/aridiahh) |
+| Ni Komang Vaniya Apriandani  | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/username-vaniya) |
+| Sinta Purnama Dewi           | Machine Learning    | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/username-sinta) |
+| Sultan Azizul Haromain       | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sultanazizul) |
+
+---
+## 🔧 Repository
 - **[Cloud Computing](https://github.com/puturangga21/capstone-reto-cc)**  
   Repository for backend infrastructure, API management, and cloud deployment of Reto.
 
